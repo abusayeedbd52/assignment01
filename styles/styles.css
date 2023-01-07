@@ -1,0 +1,186 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.header {
+
+    background-repeat: no-repeat;
+    background-image: url(../images/banner/banner2.png);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+   
+}
+
+
+/* banner styles */
+.banner {
+    text-align: flex;
+    margin: 0 200px;
+}
+
+.banner-title {
+    color: #151414;
+    font-size: 65px;
+    line-height: 76px;
+
+    margin-bottom: 24px;
+    text-align: left;
+
+}
+
+.banner-description {
+    color: #444343;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 30px;
+
+}
+
+.btn-primary {
+    width: 160px;
+    height: 64px;
+    background-color: orange;
+    border: none;
+}
+
+
+section{
+    gap: 200px;
+}
+/* section one */
+.section-one {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.div-1 {
+    margin: 0;
+    display: flex;
+    align-items: center;
+}
+
+.my-title {
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+    text-align: left;
+    /* margin-bottom: 30px; */
+}
+
+.my-paragraph {
+    color: #444343;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+.my-contrary {
+    color: #444343;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+/* 2nd section */
+
+.my-plans{
+    color: #151414;font-weight: 700;
+    font-size: 40px;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.second-section{
+    align-items: center;
+    margin: 0 200px;
+    max-width: 1140px;
+}
+
+.div-2 {
+    display: flex;
+    gap: 37px;
+    align-items: center;
+    margin: 0
+    ;
+    text-align: center;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+    margin-bottom: 20px;
+}
+.subtitle{
+    color: #737272;
+    font-weight: 500;
+font-size: 25px;
+}
+
+/* 3rd section */
+
+.div-3{
+    margin: 0 auto;
+        background-image: linear-gradient(rgb(192, 189, 165), white);
+        border-radius: 8px;
+        align-items: center; background-size: auto;
+        max-width: 1170px;
+        margin-top: 200px;
+        margin-bottom: 200px;
+        text-align: center;
+}
+.last-title{
+    color: #FFFFFF;
+    font-weight: 700;
+font-size: 40px;
+}
+.btn-second{
+    width: 160px;
+    height: 64px;
+    background-color: orange;
+    border: none;
+
+}
+
+/* section four */
+.div-4 {
+    align-items: center;
+    display: flex;
+    margin-top: 30px;
+    
+    background-color: #151414;align-items: center ;text-align: right;
+    /* margin: 30px 100px 30px; */
+}
+.my-future{
+    width: 485px;
+height: 317px;
+left: 163px;
+top: 2776px;
+color: #F8F8F8;
+}
+.future-title{
+    font-weight: 700;
+font-size: 45px
+}
+.future-paragraph{
+    font-weight: 400;
+font-size: 16px;
+}
+.subscribe{
+    color: #FFFFFF;font-weight: 600;
+    font-size: 25px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
+input{
+    background-color: bisque;
+}
+.btn-subscribe{
+    background-color: orange;
+    font-weight: 600;
+font-size: 20px;
+text-decoration: solid;
+
+}
